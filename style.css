@@ -335,7 +335,6 @@ body {
     z-index: 1;
     max-width: 800px;
     padding: 0 2rem;
-.hero-content {
   animation: fadeOut 1s ease 5s forwards;
 }
 
