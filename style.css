@@ -3,8 +3,6 @@
    - BE RESPONSIBLE SA MGA GAGAWIN NYO MARAMING SALAMAT !! */
 
 /* FONTS !!! */
-@font-face {
-   
 * {
     margin: 0;
     padding: 0;
@@ -337,6 +335,7 @@ body {
     z-index: 1;
     max-width: 800px;
     padding: 0 2rem;
+.hero-content {
   animation: fadeOut 1s ease 5s forwards;
 }
 
